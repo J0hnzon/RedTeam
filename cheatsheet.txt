@@ -1,12 +1,11 @@
 http server //python3
 #python -m http.server <port>
 
-
-ftp server
+ftp server //python
 #python3 -m pip install pyftpdlib
 #python3 -m pyftpdlib -p 21
 
-smb server 
+smb server  //python
 ##impacket-smbserver -smb2support share $(pwd)
 
 linux smb client
