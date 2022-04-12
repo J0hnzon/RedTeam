@@ -18,8 +18,8 @@ http server
 ftp server 
 
 //python
-#python3 -m pip install pyftpdlib
-#python3 -m pyftpdlib -p 21
+#python -m pip install pyftpdlib
+#python -m pyftpdlib -p 21
 
 
 
